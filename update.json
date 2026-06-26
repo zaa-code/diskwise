@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Premium Dark Mode Inno Setup & Accessibility updates.",
-  "pub_date": "2026-06-26T22:45:00Z",
+  "version": "1.0.0",
+  "notes": "Official Production Release 1.0.0. Optimized update systems, direct download proxies, and performance enhancements.",
+  "pub_date": "2026-06-26T23:25:00+07:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd21mbXNjUlc2UTBPZjlzWFA4K09IOEtteGNNLzFDb09sWE8vb0RyYlRmbWtmY3pBNk5wV0RxL3JXa25IVUF4ejVhYmxNSVAwNXRSMEZmS3FXQ2J4em92SXAxKzRHOUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDg4OTEyCWZpbGU6ZGlza3dpc2VfMC4xLjJfeDY0LXNldHVwLW5ldy5leGUKUzBjWEs2VEs1dmdQQ2FoaWZkWVRVV1F1Y3NqYkpKbEhoMlluWWZYcVkrdVdXSllvOEsxazN1OER4RWRseExHdzFmbVJ1MVpjOXNwVkZHVFp3Y2JnQVE9PQo=",
-      "url": "https://github.com/zaa-code/diskwise/releases/download/v0.1.2/diskwise_0.1.2_x64-setup-new.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd21mbXNjUlc2UTdWdExHYnpIcm1CWWlzSHFTajljaWIyMHdpVCs1aDRaS2t6WWlyWUQ3Uld1cExub3htWXBOUmFmRVR2TTA2Q05rcHhaVWFpanNXbnl2U3dMcDU0L3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTEzMzk2CWZpbGU6ZGlza3dpc2VfMS4wLjBfeDY0LXNldHVwLmV4ZQpxWkl3QUd0N2IyM0tDL1JzSjVvN0d6TGVBeVlPTUxtY2Q5SUoyV01PV1BUT2RiWEpwdk41R1lHakQ2QmwvV1FTM2JjVEw1bnFkYU9STDd3eFpycERDUT09Cg==",
+      "url": "https://github.com/zaa-code/diskwise/releases/download/v1.0.0/diskwise_1.0.0_x64-setup.exe"
     }
   }
 }
