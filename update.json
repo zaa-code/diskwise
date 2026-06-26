@@ -1,0 +1,11 @@
+{
+  "version": "0.1.2",
+  "notes": "Premium Dark Mode Inno Setup & Accessibility updates.",
+  "pub_date": "2026-06-26T22:45:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd21mbXNjUlc2UTBPZjlzWFA4K09IOEtteGNNLzFDb09sWE8vb0RyYlRmbWtmY3pBNk5wV0RxL3JXa25IVUF4ejVhYmxNSVAwNXRSMEZmS3FXQ2J4em92SXAxKzRHOUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDg4OTEyCWZpbGU6ZGlza3dpc2VfMC4xLjJfeDY0LXNldHVwLW5ldy5leGUKUzBjWEs2VEs1dmdQQ2FoaWZkWVRVV1F1Y3NqYkpKbEhoMlluWWZYcVkrdVdXSllvOEsxazN1OER4RWRseExHdzFmbVJ1MVpjOXNwVkZHVFp3Y2JnQVE9PQo=",
+      "url": "https://github.com/zaa-code/diskwise/releases/download/v0.1.2/diskwise_0.1.2_x64-setup-new.exe"
+    }
+  }
+}
