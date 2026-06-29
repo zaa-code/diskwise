@@ -1,10 +1,10 @@
 {
   "version": "1.1.0",
   "notes": "Official Release v1.1.0",
-  "pub_date": "2026-06-28T07:01:20Z",
+  "pub_date": "2026-06-29T03:54:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd21mbXNjUlc2UTZUc1BBM2RyS2h6OHdITGJSWUVHNkNLOWEyb0loMyswN2pGTTRaTUx1NVRMc1EveTl6alN4STdSbTlaR0haVkQxS2IwaC9YN2ZOS2Q4N28xYUVrbkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjMwMDY2CWZpbGU6ZGlza3dpc2VfMS4xLjBfeDY0LXNldHVwLmV4ZQpQSE5Ebm5PSXh6VDNyeFN4d3FDTktJY2psMi9GNW9HTXFaWWwyQnJGRHJyL1Evc01aUnBaYytyYnJ2OHNkaFpMby9JL1I1RDRDZFppQ0UwcndjRERCdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd21mbXNjUlc2UTlza29EczBYR3ovVHBwd0w0aHNVQmdRbUl1bXFlN3JrU0pJNXdvZUIzQzR6M2FrNW9yUGx2VnRsZGNWdHBRdnprdUl3TlVYSUNmdFptRU91eEYvZXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzA1MjI3CWZpbGU6ZGlza3dpc2VfMS4xLjBfeDY0LXNldHVwLmV4ZQpGWkFyYk83dFNldWM0Vk4xSDBJVlBqQmhxYlpKSm1Balc5VUZ3YXg1L2hRSzJHMGp6TXYwZnpYSGdHVVdGQkl3NmpzbmNRN25wR1pMd28rL2ozSStEdz09Cg==",
       "url": "https://github.com/zaa-code/diskwise/releases/download/v1.1.0/diskwise_1.1.0_x64-setup.exe"
     }
   }
